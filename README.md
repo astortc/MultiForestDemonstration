@@ -11,7 +11,7 @@ This repository is merely for demonstration of the capabilities. The notebooks c
 * Anaconda Python (https://www.anaconda.com/products/individual), install for User only (does not require administrative permissions)
 * Python 3 version (Python 2 should also work though, but not tested)
 * Run conda prompt
-* Ortools and Pandas packages ("conda install pip"&"pip install ortools, pandas")
+* Ortools and Pandas packages ("conda install pip"&"pip install ortools, pandas, numpy, os, request")
 * Go to the directory containing the repository
 * Run "jupyter notebook"
 * From the files tab open MultiFunctionalOptimization.ipynb
